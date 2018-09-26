@@ -1,0 +1,43 @@
+{
+  "status": 1,
+  "msg": "SUCCESS",
+  "orderid": "2018010010111",
+  "stylelist": [
+    {
+      "styleid": 10010,
+      "name": "黑色牛仔长外套",
+      "size": "S",
+      "color": "青灰色",
+      "num": 1,
+      "discount": 1,
+      "price": 889,
+      "img": "http://cone.zhxit.com/work/10010.png"
+    },
+    {
+      "styleid": 20010,
+      "name": "白色蕾丝连衣裙",
+      "size": "S",
+      "color": "白色",
+      "num": 1,
+      "discount": 1,
+      "price": 889,
+      "img": "http://cone.zhxit.com/work/20010.png"
+    }
+  ],
+  "price": [
+    {
+      "total": 2,
+      "jprice": 1778,
+      "gprice": 0,
+      "xprice": 1778,
+      "pay": 1778
+    }
+  ],
+  "userinfo": [
+    {
+      "username": "杨欣会",
+      "mobile": "13416181086",
+      "address": "广东省广州市天河区科韵路聚宝苑"
+    }
+  ]
+}
